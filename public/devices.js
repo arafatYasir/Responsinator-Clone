@@ -16,7 +16,8 @@ const allDevices = [
   { name: "iPad Pro 12.9-inch", width: 1024, height: 600, type: "tablet" },
 
   // Laptop
-  { name: "Windows Laptop (1366x768)", width: 1366, height: 700, type: "laptop" },
+  { name: "Windows Laptop (1280x720", width: 1280, height: 720, type: "laptop" },
+  { name: "Windows Laptop (1366x768)", width: 1366, height: 768, type: "laptop" },
 ];
 
 export default allDevices;
